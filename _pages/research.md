@@ -4,10 +4,7 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-
-
-  <div class="wordwrap">You can find my past note for ocean color remote sensing (here)[https://lifeodyssey.github.io/tags/Ocean-Color/]</a>.</div>
-
+You can find my past note for ocean color remote sensing [here](https://lifeodyssey.github.io/tags/Ocean-Color/)
 
 {% include base_path %}
 
