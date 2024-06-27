@@ -4,7 +4,6 @@ collection: research
 excerpt: "Evaluation of phytoplankton light absorption in Japanese coastal waters derived from quasi-analytical
 algorithm"
 date: 2021-08-12
-
 ---
 
 Phytoplankton, tiny ocean plants, absorb light, and measuring this in coastal areas is tricky. This study tested a method called the Quasi-Analytical-Algorithm to measure how much light phytoplankton absorb at a specific light wavelength (443 nm) in different sea areas using both on-site data and satellite images. The results were best in the East China Sea, okay in Ise-Mikawa Bay, and not good in the Ariake Sea, showing different patterns in each location.
