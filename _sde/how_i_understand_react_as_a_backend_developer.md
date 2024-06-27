@@ -1,16 +1,12 @@
 ---
-title: 'Clean Code, Refactoring and Test-Driven Development'
-date: 2026-06-15
+title: 'How I Understand React as a Backend Developer'
+date: 2026-06-19
 ---
 
-<a href="https://lifeodyssey.github.io/posts/5ffd7c75.html" style="text-decoration: none; color: inherit;">
-I would like to summarize some of the basic principles and habits of coding that I learned while working at ThoughtWorks. These are some 'metaphysical' guidelines, and later I plan to use Kotlin to write some design patterns to practice the 'physical' aspects.
+<a href="https://lifeodyssey.github.io/posts/789fd60c.html" style="text-decoration: none; color: inherit;">
+In the past, I found it quite hard to understand React code as a backend developer. But recently, I gained some insights from my daily development work, and I want to share them with you.
 
-In a context where GPT can help us write most of the code, these principles become even more important.
-
-私はThoughtWorksでの勤務中に学んだコーディングの基本原則と習慣をまとめたいと思います。これらはいくつかの「形而上」のガイドラインで、後でKotlinを使用してデザインパターンを書き、その「形而下」の部分を実践する予定です。
-
-GPTがほとんどのコードを書く手助けをする状況では、これらの原則はさらに重要になります。
+過去に、バックエンド開発者としてReactのを理解するのがとても難しいと感じました。しかし最近、日々の開発作業からいくつかの洞察を得ることができたので、それを皆さんと共有したいと思います。
 
 </a>
 
