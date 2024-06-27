@@ -12,7 +12,7 @@ title                    : "Zhenjia Zhou / Software Engineer"
 title_separator          : "-"
 name                     : &name "Zhenjia Zhou"
 description              : &description ""
-url                      : https://lifeodyssey.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://lifeodyssey.github.io/portfolio/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "portfolio" # the subpath of your site, e.g. "/blog"
 repository               : "lifeodyssey/lifeodyssey.github.io/portfolio"
 
